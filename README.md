@@ -1,4 +1,4 @@
-# RocketSeat - Projetos trilha ReactJs
+# RocketSeat - Trilha ReactJs
 
 Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/in/viniciusmaclters/)__ durante minha tragetória na [RocketSeat](https://www.rocketseat.com.br/) :rocket:
 
