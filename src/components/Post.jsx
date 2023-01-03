@@ -1,15 +1,15 @@
 import { Comment } from './Comment'
 import styles from './Post.module.css'
 
-export function Post() {
+export function Post({ author }) {
   return (
     <article className={styles.post}>
       <header>
         <div className={styles.author}>
-          <img className={styles.avatar} src="https://github.com/viniciusmaclters.png" />
+          <img className={styles.avatar} src={author.avatarUrl} />
           <div className={styles.authorInfo}>
-            <strong>Vinicius Maclters</strong>
-            <span>Web Developer</span>        
+            <strong>{author.name}</strong>
+            <span>{author.role}</span>        
           </div>
         </div>
 
