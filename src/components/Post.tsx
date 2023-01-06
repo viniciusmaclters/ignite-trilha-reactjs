@@ -1,8 +1,10 @@
-import { format, formatDistanceToNow } from 'date-fns'
 import ptBr from 'date-fns/locale/pt-BR'
+import { format, formatDistanceToNow } from 'date-fns'
 import { ChangeEvent, FormEvent, InvalidEvent, useState } from 'react'
 
+import { Avatar } from './Avatar'
 import { Comment } from './Comment'
+
 import styles from './Post.module.css'
 
 interface Author {
@@ -69,7 +71,7 @@ export function Post({ author, publishedAt, content }: PostProps) {
     <article className={styles.post}>
       <header>
         <div className={styles.author}>
-          <img className={styles.avatar} src={author.avatarUrl} />
+          <Avatar src={author.avatarUrl} />
           <div className={styles.authorInfo}>
             <strong>{author.name}</strong>
             <span>{author.role}</span>        
