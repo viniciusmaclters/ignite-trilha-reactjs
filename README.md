@@ -62,3 +62,43 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] Layout de rotas
 - [x] Header e Layout
 - [x] Página: Home
+- [x] Finalização da Home
+- [x] Aprimorando os inputs
+- [x] Página: History
+- [x] Componente: Status
+
+##### [Formulários](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
+- [] Controlled vs Uncontrolled
+- [] React Hook Form
+- [] Validando formulários
+- [] TypeScript no formulário
+- [] Resetando formulário
+
+##### [Funcionalidades da aplicação](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
+- [] Iniciando novo ciclo
+- [] Criando countdown
+- [] O hook useEffect
+- [] Reduzindo countdown
+- [] Mudando title da página
+- [] Interromper ciclo
+- [] Separando componentes
+- [] Prop Drilling no ReactJs
+
+##### [Contexto no ReactJs](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
+- [] Entendendo contextos
+- [] Convertendo para contexto
+- [] Contexto no formulário
+- [] Contexto entre rotas
+- [] Reset do formulário
+- [] Listagem do histórico
+- [] Formatação de data
+
+##### [Reducers](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
+- [] Criando reducer de ciclos
+- [] Salvando um objeto no Reducer
+- [] Marcando ciclo como finalizado
+- [] Separando Action Types
+- [] Separando Action
+- [] Utilizando immer
+- [] Salvando estado no storage
+- [] Corrigindo listagem de histórico
