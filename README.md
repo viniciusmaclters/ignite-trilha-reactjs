@@ -68,16 +68,16 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] Componente: Status
 
 ##### [Formulários](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
-- [] Controlled vs Uncontrolled
-- [] React Hook Form
-- [] Validando formulários
-- [] TypeScript no formulário
-- [] Resetando formulário
+- [x] Controlled vs Uncontrolled
+- [x] React Hook Form
+- [x] Validando formulários
+- [x] TypeScript no formulário
+- [x] Resetando formulário
 
 ##### [Funcionalidades da aplicação](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
-- [] Iniciando novo ciclo
-- [] Criando countdown
-- [] O hook useEffect
+- [x] Iniciando novo ciclo
+- [x] Criando countdown
+- [x] O hook useEffect
 - [] Reduzindo countdown
 - [] Mudando title da página
 - [] Interromper ciclo
