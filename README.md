@@ -78,26 +78,26 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] Iniciando novo ciclo
 - [x] Criando countdown
 - [x] O hook useEffect
-- [] Reduzindo countdown
-- [] Mudando title da página
-- [] Interromper ciclo
-- [] Separando componentes
-- [] Prop Drilling no ReactJs
+- [x] Reduzindo countdown
+- [x] Mudando title da página
+- [x] Interromper ciclo
+- [x] Separando componentes
+- [x] Prop Drilling no ReactJs
 
 ##### [Contexto no ReactJs](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
-- [] Entendendo contextos
-- [] Convertendo para contexto
-- [] Contexto no formulário
-- [] Contexto entre rotas
-- [] Reset do formulário
-- [] Listagem do histórico
-- [] Formatação de data
+- [x] Entendendo contextos
+- [x] Convertendo para contexto
+- [x] Contexto no formulário
+- [x] Contexto entre rotas
+- [x] Reset do formulário
+- [x] Listagem do histórico
+- [x] Formatação de data
 
 ##### [Reducers](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
-- [] Criando reducer de ciclos
-- [] Salvando um objeto no Reducer
-- [] Marcando ciclo como finalizado
-- [] Separando Action Types
+- [x] Criando reducer de ciclos
+- [x] Salvando um objeto no Reducer
+- [x] Marcando ciclo como finalizado
+- [x] Separando Action Types
 - [] Separando Action
 - [] Utilizando immer
 - [] Salvando estado no storage
