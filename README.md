@@ -98,7 +98,35 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] Salvando um objeto no Reducer
 - [x] Marcando ciclo como finalizado
 - [x] Separando Action Types
-- [] Separando Action
-- [] Utilizando immer
-- [] Salvando estado no storage
-- [] Corrigindo listagem de histórico
+- [x] Separando Action
+- [x] Utilizando immer
+- [x] Salvando estado no storage
+- [x] Corrigindo listagem de histórico
+
+## Projeto 03 Consumo de API e performance no ReactJs :heavy_check_mark:
+
+##### [Estrutura visual](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
+- [x] Introdução
+- [x] Setup do projeto
+- [x] Componente: Header
+- [] Component: Summary
+- [] Tabela de transações
+- [] Componente: SearchForm
+- [] Criando um modal acessível
+- [] Modal de nova transação
+- [] Botões de entrada e saída
+- [] Criando radio button acessível
+
+##### [Conexão com a API](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
+- [] Configurando o JSON Server
+- [] Realizando requisições HTTP
+- [] Criando contexto de transações
+- [] Calculando resumo de transações
+- [] Formatando valores
+- [] Criando hook para o resumo
+- [] Aplicando React Hook Form
+- [] Controlled components
+- [] Buscando transações
+- [] Configurando Axios 
+- [] Criando novas transações
+- [] Corrigindo erros de linting
