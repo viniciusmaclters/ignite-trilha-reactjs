@@ -109,16 +109,16 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] Introdução
 - [x] Setup do projeto
 - [x] Componente: Header
-- [] Component: Summary
-- [] Tabela de transações
-- [] Componente: SearchForm
-- [] Criando um modal acessível
-- [] Modal de nova transação
-- [] Botões de entrada e saída
-- [] Criando radio button acessível
+- [x] Component: Summary
+- [x] Tabela de transações
+- [x] Componente: SearchForm
+- [x] Criando um modal acessível
+- [x] Modal de nova transação
+- [x] Botões de entrada e saída
+- [x] Criando radio button acessível
 
 ##### [Conexão com a API](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
-- [] Configurando o JSON Server
+- [x] Configurando o JSON Server
 - [] Realizando requisições HTTP
 - [] Criando contexto de transações
 - [] Calculando resumo de transações
