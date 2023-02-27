@@ -119,10 +119,10 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ##### [Conexão com a API](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
 - [x] Configurando o JSON Server
-- [] Realizando requisições HTTP
-- [] Criando contexto de transações
-- [] Calculando resumo de transações
-- [] Formatando valores
+- [x] Realizando requisições HTTP
+- [x] Criando contexto de transações
+- [x] Calculando resumo de transações
+- [x] Formatando valores
 - [] Criando hook para o resumo
 - [] Aplicando React Hook Form
 - [] Controlled components
