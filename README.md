@@ -123,10 +123,17 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] Criando contexto de transações
 - [x] Calculando resumo de transações
 - [x] Formatando valores
-- [] Criando hook para o resumo
-- [] Aplicando React Hook Form
-- [] Controlled components
-- [] Buscando transações
-- [] Configurando Axios 
-- [] Criando novas transações
-- [] Corrigindo erros de linting
+- [x] Criando hook para o resumo
+- [x] Aplicando React Hook Form
+- [x] Controlled components
+- [x] Buscando transações
+- [x] Configurando Axios 
+- [x] Criando novas transações
+- [x] Corrigindo erros de linting
+
+##### [Performance](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
+- [x] Utilizando React DevTools
+- [] Aplicando Context Selectors
+- [] Aplicado o useCallback
+- [] Aplicando o memo
+- [] Aplicando o useMemo
