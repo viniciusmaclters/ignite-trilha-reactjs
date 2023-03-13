@@ -133,7 +133,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ##### [Performance](https://github.com/viniciusmaclters/ignite-trilha-reactjs)
 - [x] Utilizando React DevTools
-- [] Aplicando Context Selectors
-- [] Aplicado o useCallback
-- [] Aplicando o memo
-- [] Aplicando o useMemo
+- [x] Aplicando Context Selectors
+- [x] Aplicado o useCallback
+- [x] Aplicando o memo
+- [x] Aplicando o useMemo
